@@ -1,0 +1,2 @@
+# UseObjectScaleInShader
+Scaleが変化してもShaderToyっぽいことをする方法
